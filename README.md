@@ -14,4 +14,4 @@ Douche lag is doing that by emulating a button press and waiting for a visual ch
 | R1, R2 | 10k Ohm resistor 0805 | [LCSC](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1002T5E_C17414.html)|
 | SW1, SW2 | Tactile switch | [LCSC](https://www.lcsc.com/product-detail/Tactile-Switches_BZCN-TSB008A2518A_C2888455.html)|
 | PS1, PS2 | Mini DIN 6 connector | [LCSC](https://www.lcsc.com/product-detail/Circular-Connectors-Cable-Connectors_CONNFLY-Elec-DS1093-01-PN60_C77848.html)|
-| PCB1 | 128x64 OLED display | [AliExpress] (https://de.aliexpress.com/item/1005004242677199.html)
+| PCB1 | 128x64 OLED display | [AliExpress](https://de.aliexpress.com/item/1005004242677199.html)
