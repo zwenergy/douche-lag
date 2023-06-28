@@ -24,6 +24,7 @@ Ideally, this potential future additions would not need a complete re-design, bu
 Douche lag needs a program for each system to be tested which essentially toggles the display measurable by a button press.
 Right now, there are ROMs for the following systems:
 - GBA
+- N64
 
 ## Gamepad Modification
 Right now, only gamepads which use a "common ground switching" scheme are supported (meaning a button press will cause the button input to be tied to ground).
