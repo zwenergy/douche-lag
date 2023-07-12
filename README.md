@@ -25,6 +25,7 @@ Douche lag needs a program for each system to be tested which essentially toggle
 Right now, there are ROMs for the following systems:
 - GBA
 - N64
+- Genesis / Master Drive
 
 ## Gamepad Modification
 Right now, only gamepads which use a "common ground switching" scheme are supported (meaning a button press will cause the button input to be tied to ground).
