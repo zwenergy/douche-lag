@@ -27,6 +27,7 @@ Right now, there are ROMs for the following systems:
 - N64
 - Genesis / Master Drive
 - Saturn
+- SNES
 
 ## Gamepad Modification
 Right now, only gamepads which use a "common ground switching" scheme are supported (meaning a button press will cause the button input to be tied to ground).
